@@ -1,0 +1,297 @@
+country,country_name,type,level,2018
+BE,Belgium,Conventional thermal,Level 1,30092
+BE,Belgium,Nuclear,Level 1,26995
+BE,Belgium,Hydro,Level 1,1239
+BE,Belgium,Pumped hydro power,Level 2,983
+BE,Belgium,Wind,Level 1,7177
+BE,Belgium,Solar,Level 1,3488
+BE,Belgium,Geothermal,Level 1,0
+BE,Belgium,Other,Level 1,218
+BG,Bulgaria,Conventional thermal,Level 1,19334
+BG,Bulgaria,Nuclear,Level 1,15290
+BG,Bulgaria,Hydro,Level 1,4690
+BG,Bulgaria,Pumped hydro power,Level 2,987
+BG,Bulgaria,Wind,Level 1,1326
+BG,Bulgaria,Solar,Level 1,1043
+BG,Bulgaria,Geothermal,Level 1,0
+BG,Bulgaria,Other,Level 1,22
+CZ,Czechia,Conventional thermal,Level 1,48042
+CZ,Czechia,Nuclear,Level 1,28255
+CZ,Czechia,Hydro,Level 1,2650
+CZ,Czechia,Pumped hydro power,Level 2,1037
+CZ,Czechia,Wind,Level 1,600
+CZ,Czechia,Solar,Level 1,2317
+CZ,Czechia,Geothermal,Level 1,0
+CZ,Czechia,Other,Level 1,100
+DK,Denmark,Conventional thermal,Level 1,14072
+DK,Denmark,Nuclear,Level 1,0
+DK,Denmark,Hydro,Level 1,14
+DK,Denmark,Pumped hydro power,Level 2,0
+DK,Denmark,Wind,Level 1,13898
+DK,Denmark,Solar,Level 1,952
+DK,Denmark,Geothermal,Level 1,0
+DK,Denmark,Other,Level 1,0
+DE,Germany,Conventional thermal,Level 1,320437
+DE,Germany,Nuclear,Level 1,72274
+DE,Germany,Hydro,Level 1,20041
+DE,Germany,Pumped hydro power,Level 2,6661
+DE,Germany,Wind,Level 1,112174
+DE,Germany,Solar,Level 1,46184
+DE,Germany,Geothermal,Level 1,165
+DE,Germany,Other,Level 1,522
+EE,Estonia,Conventional thermal,Level 1,10170
+EE,Estonia,Nuclear,Level 1,0
+EE,Estonia,Hydro,Level 1,18
+EE,Estonia,Pumped hydro power,Level 2,0
+EE,Estonia,Wind,Level 1,645
+EE,Estonia,Solar,Level 1,0
+EE,Estonia,Geothermal,Level 1,0
+EE,Estonia,Other,Level 1,0
+IE,Ireland,Conventional thermal,Level 1,19963
+IE,Ireland,Nuclear,Level 1,0
+IE,Ireland,Hydro,Level 1,921
+IE,Ireland,Pumped hydro power,Level 2,234
+IE,Ireland,Wind,Level 1,8349
+IE,Ireland,Solar,Level 1,0
+IE,Ireland,Geothermal,Level 1,0
+IE,Ireland,Other,Level 1,0
+GR,Greece,Conventional thermal,Level 1,34803
+GR,Greece,Nuclear,Level 1,0
+GR,Greece,Hydro,Level 1,5802
+GR,Greece,Pumped hydro power,Level 2,636
+GR,Greece,Wind,Level 1,6300
+GR,Greece,Solar,Level 1,3792
+GR,Greece,Geothermal,Level 1,0
+GR,Greece,Other,Level 1,10
+ES,Spain,Conventional thermal,Level 1,110084
+ES,Spain,Nuclear,Level 1,53270
+ES,Spain,Hydro,Level 1,36083
+ES,Spain,Pumped hydro power,Level 2,2009
+ES,Spain,Wind,Level 1,49495
+ES,Spain,Solar,Level 1,12137
+ES,Spain,Geothermal,Level 1,0
+ES,Spain,Other,Level 1,0
+FR,France,Conventional thermal,Level 1,53956
+FR,France,Nuclear,Level 1,393153
+FR,France,Hydro,Level 1,68706
+FR,France,Pumped hydro power,Level 2,9082
+FR,France,Wind,Level 1,26134
+FR,France,Solar,Level 1,9651
+FR,France,Geothermal,Level 1,84
+FR,France,Other,Level 1,0
+HR,Croatia,Conventional thermal,Level 1,4155
+HR,Croatia,Nuclear,Level 1,0
+HR,Croatia,Hydro,Level 1,7681
+HR,Croatia,Pumped hydro power,Level 2,583
+HR,Croatia,Wind,Level 1,1350
+HR,Croatia,Solar,Level 1,69
+HR,Croatia,Geothermal,Level 1,0
+HR,Croatia,Other,Level 1,0
+IT,Italy,Conventional thermal,Level 1,185046
+IT,Italy,Nuclear,Level 1,0
+IT,Italy,Hydro,Level 1,49275
+IT,Italy,Pumped hydro power,Level 2,1632
+IT,Italy,Wind,Level 1,17318
+IT,Italy,Solar,Level 1,22887
+IT,Italy,Geothermal,Level 1,5708
+IT,Italy,Other,Level 1,0
+CY,Cyprus,Conventional thermal,Level 1,4380
+CY,Cyprus,Nuclear,Level 1,0
+CY,Cyprus,Hydro,Level 1,0
+CY,Cyprus,Pumped hydro power,Level 2,0
+CY,Cyprus,Wind,Level 1,220
+CY,Cyprus,Solar,Level 1,190
+CY,Cyprus,Geothermal,Level 1,0
+CY,Cyprus,Other,Level 1,0
+LV,Latvia,Conventional thermal,Level 1,3962
+LV,Latvia,Nuclear,Level 1,0
+LV,Latvia,Hydro,Level 1,2418
+LV,Latvia,Pumped hydro power,Level 2,0
+LV,Latvia,Wind,Level 1,120
+LV,Latvia,Solar,Level 1,0
+LV,Latvia,Geothermal,Level 1,0
+LV,Latvia,Other,Level 1,0
+LT,Lithuania,Conventional thermal,Level 1,802
+LT,Lithuania,Nuclear,Level 1,0
+LT,Lithuania,Hydro,Level 1,940
+LT,Lithuania,Pumped hydro power,Level 2,513
+LT,Lithuania,Wind,Level 1,1136
+LT,Lithuania,Solar,Level 1,80
+LT,Lithuania,Geothermal,Level 1,0
+LT,Lithuania,Other,Level 1,223
+LU,Luxembourg,Conventional thermal,Level 1,463
+LU,Luxembourg,Nuclear,Level 1,0
+LU,Luxembourg,Hydro,Level 1,1326
+LU,Luxembourg,Pumped hydro power,Level 2,1237
+LU,Luxembourg,Wind,Level 1,263
+LU,Luxembourg,Solar,Level 1,111
+LU,Luxembourg,Geothermal,Level 1,0
+LU,Luxembourg,Other,Level 1,0
+HU,Hungary,Conventional thermal,Level 1,13489
+HU,Hungary,Nuclear,Level 1,14854
+HU,Hungary,Hydro,Level 1,215
+HU,Hungary,Pumped hydro power,Level 2,0
+HU,Hungary,Wind,Level 1,589
+HU,Hungary,Solar,Level 1,594
+HU,Hungary,Geothermal,Level 1,6
+HU,Hungary,Other,Level 1,0
+MT,Malta,Conventional thermal,Level 1,1716
+MT,Malta,Nuclear,Level 1,0
+MT,Malta,Hydro,Level 1,0
+MT,Malta,Pumped hydro power,Level 2,0
+MT,Malta,Wind,Level 1,0
+MT,Malta,Solar,Level 1,0
+MT,Malta,Geothermal,Level 1,0
+MT,Malta,Other,Level 1,0
+NL,Netherlands,Conventional thermal,Level 1,94450
+NL,Netherlands,Nuclear,Level 1,3313
+NL,Netherlands,Hydro,Level 1,86
+NL,Netherlands,Pumped hydro power,Level 2,0
+NL,Netherlands,Wind,Level 1,12279
+NL,Netherlands,Solar,Level 1,2423
+NL,Netherlands,Geothermal,Level 1,0
+NL,Netherlands,Other,Level 1,0
+AT,Austria,Conventional thermal,Level 1,16350
+AT,Austria,Nuclear,Level 1,0
+AT,Austria,Hydro,Level 1,37217
+AT,Austria,Pumped hydro power,Level 2,13397
+AT,Austria,Wind,Level 1,5857
+AT,Austria,Solar,Level 1,0
+AT,Austria,Geothermal,Level 1,0
+AT,Austria,Other,Level 1,6162
+PL,Poland,Conventional thermal,Level 1,138957
+PL,Poland,Nuclear,Level 1,0
+PL,Poland,Hydro,Level 1,2353
+PL,Poland,Pumped hydro power,Level 2,402
+PL,Poland,Wind,Level 1,12487
+PL,Poland,Solar,Level 1,298
+PL,Poland,Geothermal,Level 1,0
+PL,Poland,Other,Level 1,0
+PT,Portugal,Conventional thermal,Level 1,30887
+PT,Portugal,Nuclear,Level 1,0
+PT,Portugal,Hydro,Level 1,13489
+PT,Portugal,Pumped hydro power,Level 2,3120
+PT,Portugal,Wind,Level 1,12530
+PT,Portugal,Solar,Level 1,974
+PT,Portugal,Geothermal,Level 1,205
+PT,Portugal,Other,Level 1,0
+RO,Romania,Conventional thermal,Level 1,22611
+RO,Romania,Nuclear,Level 1,10443
+RO,Romania,Hydro,Level 1,17653
+RO,Romania,Pumped hydro power,Level 2,0
+RO,Romania,Wind,Level 1,6261
+RO,Romania,Solar,Level 1,1754
+RO,Romania,Geothermal,Level 1,0
+RO,Romania,Other,Level 1,0
+SI,Slovenia,Conventional thermal,Level 1,4703
+SI,Slovenia,Nuclear,Level 1,5489
+SI,Slovenia,Hydro,Level 1,4831
+SI,Slovenia,Pumped hydro power,Level 2,187
+SI,Slovenia,Wind,Level 1,6
+SI,Slovenia,Solar,Level 1,254
+SI,Slovenia,Geothermal,Level 1,0
+SI,Slovenia,Other,Level 1,0
+SK,Slovakia,Conventional thermal,Level 1,5426
+SK,Slovakia,Nuclear,Level 1,13807
+SK,Slovakia,Hydro,Level 1,3838
+SK,Slovakia,Pumped hydro power,Level 2,293
+SK,Slovakia,Wind,Level 1,5
+SK,Slovakia,Solar,Level 1,586
+SK,Slovakia,Geothermal,Level 1,0
+SK,Slovakia,Other,Level 1,55
+FI,Finland,Conventional thermal,Level 1,26425
+FI,Finland,Nuclear,Level 1,21890
+FI,Finland,Hydro,Level 1,13158
+FI,Finland,Pumped hydro power,Level 2,0
+FI,Finland,Wind,Level 1,5861
+FI,Finland,Solar,Level 1,89
+FI,Finland,Geothermal,Level 1,0
+FI,Finland,Other,Level 1,0
+SE,Sweden,Conventional thermal,Level 1,14869
+SE,Sweden,Nuclear,Level 1,65801
+SE,Sweden,Hydro,Level 1,60977
+SE,Sweden,Pumped hydro power,Level 2,0
+SE,Sweden,Wind,Level 1,16638
+SE,Sweden,Solar,Level 1,0
+SE,Sweden,Geothermal,Level 1,0
+SE,Sweden,Other,Level 1,0
+GB,United Kingdom,Conventional thermal,Level 1,180837
+GB,United Kingdom,Nuclear,Level 1,59097
+GB,United Kingdom,Hydro,Level 1,7678
+GB,United Kingdom,Pumped hydro power,Level 2,2515
+GB,United Kingdom,Wind,Level 1,56903
+GB,United Kingdom,Solar,Level 1,12857
+GB,United Kingdom,Geothermal,Level 1,0
+GB,United Kingdom,Other,Level 1,0
+NO,Norway,Conventional thermal,Level 1,3457
+NO,Norway,Nuclear,Level 1,0
+NO,Norway,Hydro,Level 1,139512
+NO,Norway,Pumped hydro power,Level 2,3490
+NO,Norway,Wind,Level 1,3875
+NO,Norway,Solar,Level 1,0
+NO,Norway,Geothermal,Level 1,0
+NO,Norway,Other,Level 1,0
+ME,Montenegro,Conventional thermal,Level 1,1444
+ME,Montenegro,Nuclear,Level 1,0
+ME,Montenegro,Hydro,Level 1,2137
+ME,Montenegro,Pumped hydro power,Level 2,0
+ME,Montenegro,Wind,Level 1,162
+ME,Montenegro,Solar,Level 1,0
+ME,Montenegro,Geothermal,Level 1,0
+ME,Montenegro,Other,Level 1,0
+MK,North Macedonia,Conventional thermal,Level 1,3309
+MK,North Macedonia,Nuclear,Level 1,0
+MK,North Macedonia,Hydro,Level 1,1774
+MK,North Macedonia,Pumped hydro power,Level 2,0
+MK,North Macedonia,Wind,Level 1,97
+MK,North Macedonia,Solar,Level 1,22
+MK,North Macedonia,Geothermal,Level 1,0
+MK,North Macedonia,Other,Level 1,0
+AL,Albania,Conventional thermal,Level 1,0
+AL,Albania,Nuclear,Level 1,0
+AL,Albania,Hydro,Level 1,8596
+AL,Albania,Pumped hydro power,Level 2,0
+AL,Albania,Wind,Level 1,0
+AL,Albania,Solar,Level 1,0
+AL,Albania,Geothermal,Level 1,0
+AL,Albania,Other,Level 1,0
+RS,Serbia,Conventional thermal,Level 1,23625
+RS,Serbia,Nuclear,Level 1,0
+RS,Serbia,Hydro,Level 1,11453
+RS,Serbia,Pumped hydro power,Level 2,1147
+RS,Serbia,Wind,Level 1,150
+RS,Serbia,Solar,Level 1,12
+RS,Serbia,Geothermal,Level 1,0
+RS,Serbia,Other,Level 1,0
+TR,Turkey,Conventional thermal,Level 1,195153
+TR,Turkey,Nuclear,Level 1,0
+TR,Turkey,Hydro,Level 1,59865
+TR,Turkey,Pumped hydro power,Level 2,0
+TR,Turkey,Wind,Level 1,19825
+TR,Turkey,Solar,Level 1,7459
+TR,Turkey,Geothermal,Level 1,6275
+TR,Turkey,Other,Level 1,703
+BA,Bosnia & Herzegovina,Conventional thermal,Level 1,4003
+BA,Bosnia & Herzegovina,Nuclear,Level 1,0
+BA,Bosnia & Herzegovina,Hydro,Level 1,3476
+BA,Bosnia & Herzegovina,Pumped hydro power,Level 2,0
+BA,Bosnia & Herzegovina,Wind,Level 1,22
+BA,Bosnia & Herzegovina,Solar,Level 1,0
+BA,Bosnia & Herzegovina,Geothermal,Level 1,0
+BA,Bosnia & Herzegovina,Other,Level 1,0
+UA,Ukraine,Conventional thermal,Level 1,60830
+UA,Ukraine,Nuclear,Level 1,84397
+UA,Ukraine,Hydro,Level 1,11920
+UA,Ukraine,Pumped hydro power,Level 2,0
+UA,Ukraine,Wind,Level 1,1185
+UA,Ukraine,Solar,Level 1,737
+UA,Ukraine,Geothermal,Level 1,0
+UA,Ukraine,Other,Level 1,0
+GE,Georgia,Conventional thermal,Level 1,2114
+GE,Georgia,Nuclear,Level 1,0
+GE,Georgia,Hydro,Level 1,9949
+GE,Georgia,Pumped hydro power,Level 2,0
+GE,Georgia,Wind,Level 1,84
+GE,Georgia,Solar,Level 1,0
+GE,Georgia,Geothermal,Level 1,0
+GE,Georgia,Other,Level 1,0
